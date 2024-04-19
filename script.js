@@ -49,8 +49,7 @@ function details(id){
                 <h3 class="card-text">${meal.strMeal}</h3>
                 <h6>Ingredients</h6>
                 <ul>
-                    <li>${meal.strArea}</li>
-                    <li>${meal.strCategory}</li>
+                   
                     <li>${meal.strIngredient1}</li>
                     <li>${meal.strIngredient2}</li>
                     <li>${meal.strIngredient3}</li>
